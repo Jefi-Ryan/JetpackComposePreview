@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name = "Theme.App.starting" parent="Theme.SplashScreen">
+
+        <item name = "windowSplashScreenBackground"> #ffffff </item>
+
+        <item name = "windowSplashScreenAnimatedIcon">@drawable/jetpack_compose_for_splash</item>
+
+        <item name = "postSplashScreenTheme"> @style/Theme.ExploringCompose </item>
+
+    </style>
+</resources>
